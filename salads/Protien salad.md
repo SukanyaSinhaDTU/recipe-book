@@ -13,4 +13,4 @@
 - Add chickpeas
 - Add leafy greens
 - Add chopped bell pepper
-- Drizle the lemon dressing on top
+- Drizzle the lemon dressing on top
