@@ -4,9 +4,13 @@
 
 - Chickpeas
 - Salad greens
+- Bell pepper
+- lemon dressing
 
 
 ## Instructions
 
 - Add chickpeas
-- Add leafy greans
+- Add leafy greens
+- Add chopped bell pepper
+- Drizle the lemon dressing on top
